@@ -10,10 +10,10 @@ mkdir SCIS_Password_Lab ; cd SCIS_Password_Lab ; git clone -b PasswordCracking -
 ```
 
 ## Step 1  
-* Install whichever files you think will help most from [Intermediate/Downloads](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Intermediate/Downloads).  Because you cloned the repo in Step 0, you now have the appropriate installers locally under SCIS_Password_Lab/Lab/.Storage, but the README under [Intermediate/Downloads](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Intermediate/Downloads) may help point you at the exact file (Best viewed in a web browser).  Password lists are located under SCIS_Password_Lab/Lab/.Storage/Lists locally.  If you see tools that you haven't used before, feel free to play around and ask questions.  
+* Install whichever files you think will help most from [Intermediate/Downloads](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Intermediate/Downloads).  Because you cloned the repo in Step 0, you now have the appropriate installers locally under SCIS_Password_Lab/Lab/.Storage, but the README under [Intermediate/Downloads](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Intermediate/Downloads) may help point you at the exact file (Best viewed in a web browser).  Password lists are located under SCIS_Password_Lab/Lab/.Storage/Lists locally.  If you see tools that you haven't used before, feel free to play around and ask questions.  
 
 ## Step 2  
-* Crack the two [Intermediate Password Dumps](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Intermediate/Password_Dumps), also located locally under SCIS_Password_Lab/Lab/Intermediate/Password_Dumps as fast and thoroughly as possible.  
+* Crack the two [Intermediate Password Dumps](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Intermediate/Password_Dumps), also located locally under SCIS_Password_Lab/Lab/Intermediate/Password_Dumps as fast and thoroughly as possible.  
 
 ## Step 3  
 Improve on your cracking speeds by auditing the results of Step 2.  

@@ -1,6 +1,6 @@
 # Password cracking - Beginner  
 
-Hints for each step are provided at [Beginner/Hints](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Beginner/Hints).  
+Hints for each step are provided at [Beginner/Hints](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Beginner/Hints).  
 
 
 ## Step 0  
@@ -14,7 +14,7 @@ Hints for each step are provided at [Beginner/Hints](https://github.com/JonZeoll
 
 ## Step 1  
 Ensure the following software has been installed.  
-* You can find the appropriate installers locally under SCIS_Password_Lab/Lab/.Storage, or use the links in the [Beginner/Downloads](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Beginner/Downloads) section of my GitHub.  The README under [Beginner/Downloads](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Beginner/Downloads) may help point you at the exact file if you aren't clear (best viewed through a web browser).  
+* You can find the appropriate installers locally under SCIS_Password_Lab/Lab/.Storage, or use the links in the [Beginner/Downloads](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Beginner/Downloads) section of my GitHub.  The README under [Beginner/Downloads](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Beginner/Downloads) may help point you at the exact file if you aren't clear (best viewed through a web browser).  
 
 ### Mac  
 * Hashcat  
@@ -32,10 +32,10 @@ Ensure the following software has been installed.
 
 
 ## Step 2  
-Crack the two [Beginner Password Dumps](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Beginner/Password_Dumps), also located locally under SCIS_Password_Lab/Lab/Beginner/Password_Dumps.  
+Crack the two [Beginner Password Dumps](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Beginner/Password_Dumps), also located locally under SCIS_Password_Lab/Lab/Beginner/Password_Dumps.  
 
 ### All OSs  
-1. Combine Hashcat and the password lists available under SCIS_Password_Lab/Lab/.Storage/Lists (Don't forget to use your web brower and check out [Beginner/Downloads](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Beginner/Downloads)) in order to crack the password dump.  
+1. Combine Hashcat and the password lists available under SCIS_Password_Lab/Lab/.Storage/Lists (Don't forget to use your web brower and check out [Beginner/Downloads](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Beginner/Downloads)) in order to crack the password dump.  
 
 
 ## Step 3  

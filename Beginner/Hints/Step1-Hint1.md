@@ -1,5 +1,5 @@
 # Step 1, Hint 1  
-You can find the appropriate installers under SCIS_Password_Lab/Lab/.Storage, or use the links in the [Beginner/Downloads](https://github.com/JonZeolla/Lab/tree/PasswordCracking/Beginner/Downloads) section of my GitHub.  The README under Beginner/Downloads may help point you at the exact file if you aren't clear (best viewed through a web browser).  
+You can find the appropriate installers under SCIS_Password_Lab/Lab/.Storage, or use the links in the [Beginner/Downloads](https://github.com/JonZeolla/lab-PasswordCracking/tree/master/Beginner/Downloads) section of my GitHub.  The README under Beginner/Downloads may help point you at the exact file if you aren't clear (best viewed through a web browser).  
 
 ## Mac  
 ### Required  
